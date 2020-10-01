@@ -1,6 +1,0 @@
-/home/ivan/Documents/Facultad/Algo2/2do Cuatri 2020/algo2-labo/5_ejercitacion_listas/alumnos/CMakeFiles/edit_cache.dir
-/home/ivan/Documents/Facultad/Algo2/2do Cuatri 2020/algo2-labo/5_ejercitacion_listas/alumnos/CMakeFiles/rebuild_cache.dir
-/home/ivan/Documents/Facultad/Algo2/2do Cuatri 2020/algo2-labo/5_ejercitacion_listas/alumnos/CMakeFiles/gtest.dir
-/home/ivan/Documents/Facultad/Algo2/2do Cuatri 2020/algo2-labo/5_ejercitacion_listas/alumnos/CMakeFiles/correrTests.dir
-/home/ivan/Documents/Facultad/Algo2/2do Cuatri 2020/algo2-labo/5_ejercitacion_listas/alumnos/CMakeFiles/gtest_main.dir
-/home/ivan/Documents/Facultad/Algo2/2do Cuatri 2020/algo2-labo/5_ejercitacion_listas/alumnos/CMakeFiles/correrValgrind.dir
