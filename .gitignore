@@ -1,3 +1,5 @@
 *.zip
 .idea
 cmake-build-debug
+CMakeFiles
+/5_ejercitacion_listas/alumnos/CMakeFiles/
